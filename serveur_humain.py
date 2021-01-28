@@ -4,7 +4,7 @@ import socket
 # Par dÃ©faut, la socketc'Ã©Ã©e utilise IPv4 et TCP.
 # Cet ensemble est disponible a l'installation de Python, dans la bibliotheque de base.
  
-hote = '127.0.0.1' # Adresse locale de l'ordinateur.
+hote = 'IP' # Adresse locale de l'ordinateur.
 portEcoute = 233          # Choix d'un port d'Ã©coute.
 portReponse = 234          # Choix d'un port de reponse.
  
