@@ -5,7 +5,7 @@ import socket
 # Cet ensemble est disponible a l'installation de Python, dans la bibliotheque de base.
 from shadoks import *
 
-Hote = '127.0.0.1' # Adresse du serveur.
+Hote = 'IP' # Adresse du serveur.
 portEcoute = 233 # Port d'Ã©coute du serveur.
 portReponse = 234 # Port de rÃ©ponse du serveur.
 
